@@ -1,22 +1,22 @@
 <div align="center">
   <img src="1766112160865.jpeg" alt="Adriana Louzado Banner" width="100%">
 
-  <h3>Cybersecurity Analyst | Web3 Security Researcher | Python</h3>
+  <h3>Cybersecurity Analyst | Threat Intelligence | Security Researcher | Python</h3>
 </div>
 
 ---
 
 ### 👤 About Me
-I am a **Cyber Security Professional** with experience in digital defense operations and technical support in high-security environments. Currently, I am deep-diving into the Web3 ecosystem to ensure decentralized finance is built on secure foundations.
+I am a Cybersecurity Professional focused on Cyber Threat Intelligence (CTI) and digital defense operations. My work bridges the gap between traditional security (Web2) and the evolving Web3 ecosystem, ensuring robust protection across diverse digital surfaces.
 
-- 🔭 **Focus:** Smart Contract Auditing & DeFi Risk Analysis.
+- 🔭 **Focus:** Threat Research, OSINT Investigations & Web3 Security.
 - 🏆 **Achievement:** 1st Place Winner @ Uniswap Defihack (2026).
-- 🐍 **Coding:** Developing Python scripts for security automation and blockchain research.
+- 🐍 **Coding:** Developing Python scripts for security automation, threat triage and blockchain research.
 
 ---
 
 ### 🤝 Let's Connect
-I’m always open to collaborating on open-source security projects or discussing the latest vulnerabilities in Web3.
+I’m always open to collaborating on open-source security projects or discussing the latest vulnerabilities in Web2 and Web3.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adrianalouzado/" target="_blank">
