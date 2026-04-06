@@ -1,7 +1,7 @@
 <div align="center">
   <img src="1766112160865.jpeg" alt="Adriana Louzado Banner" width="100%">
 
-  <h3>Cybersecurity Analyst | Threat Intelligence | Security Researcher | Python</h3>
+  <h3>Cybersecurity Analyst | Threat Intelligence | Web3 Security Researcher | Python</h3>
 </div>
 
 ---
