@@ -7,7 +7,7 @@
 ---
 
 ### 👤 About Me
-Cybersecurity professional focused on Threat Intelligence, blockchain analytics, and Web3 security research. Interested in on-chain investigation, malicious activity tracking, and security analysis across decentralized ecosystems..
+Cybersecurity professional focused on Threat Intelligence, blockchain analytics, and Web3 security research. Interested in on-chain investigation, malicious activity tracking, and security analysis across decentralized ecosystems.
 
 - 🔭 **Focus:** Threat Research, OSINT Investigations & Web3 Security.
 - 🏆 **Achievement:** 1st Place Winner @ Uniswap Defihack (2026).
