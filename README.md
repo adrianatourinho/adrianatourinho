@@ -7,7 +7,7 @@
 ---
 
 ### 👤 About Me
-I am a Cybersecurity Professional focused on Cyber Threat Intelligence (CTI) and digital defense operations. My work bridges the gap between traditional security (Web2) and the evolving Web3 ecosystem, ensuring robust protection across diverse digital surfaces.
+Cybersecurity professional focused on Threat Intelligence, blockchain analytics, and Web3 security research. Interested in on-chain investigation, malicious activity tracking, and security analysis across decentralized ecosystems..
 
 - 🔭 **Focus:** Threat Research, OSINT Investigations & Web3 Security.
 - 🏆 **Achievement:** 1st Place Winner @ Uniswap Defihack (2026).
