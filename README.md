@@ -1,17 +1,19 @@
 <div align="center">
   <img src="1766112160865.jpeg" alt="Adriana Louzado Banner" width="100%">
 
-  <h3>Cybersecurity Analyst | Threat Intelligence | Web3 Security Researcher | Python</h3>
+  <h3>Security Analyst | Smart Contract Security | Solidity & EVM | Blockchain Security Research | Python</h3>
 </div>
 
 ---
 
 ### 👤 About Me
-Cybersecurity professional focused on Threat Intelligence, blockchain analytics, and Web3 security research. Interested in on-chain investigation, malicious activity tracking, and security analysis across decentralized ecosystems.
+Cybersecurity professional focused on smart contract security and blockchain security research. Experienced with Solidity and EVM ecosystems, vulnerability analysis, and static analysis with Slither. 
 
-- 🔭 **Focus:** Threat Research, OSINT Investigations & Web3 Security.
+- 🔭 **Focus:** Smart Contract Security, Blockchain Security Research & Web3 Security.
+- 🛡️ **Currently:** Blockchain & Smart Contracts Security Monitor @ iRede, teaching Solidity and secure development, reviewing student contracts and covering vulnerability classes such as reentrancy, access control and integer handling.
 - 🏆 **Achievement:** 1st Place Winner @ Uniswap Defihack (2026).
-- 🐍 **Coding:** Developing Python scripts for security automation, threat triage and blockchain research.
+- 🐍 **Coding:** Solidity, Python scripts for security automation, vulnerability triage and blockchain research.
+- 🧱 **Standards:** ERC-20, ERC-721, ERC-1155, token architecture and tokenomics.
 
 ---
 
