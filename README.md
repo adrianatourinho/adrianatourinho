@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="1766112160865.jpeg" alt="Adriana Louzado Banner" width="100%">
-
-  <h3>Security Analyst | Smart Contract Security | Solidity & EVM | Blockchain Security Research | Python</h3>
+  <h3>Smart Contract Security Auditor | Solidity | DeFi Security | Security Analyst (DSPM/CSPM)</h3>
 </div>
 
 ---
