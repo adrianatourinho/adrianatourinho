@@ -10,7 +10,6 @@ Cybersecurity professional focused on smart contract security and blockchain sec
 - 🛡️ **Currently:** Blockchain & Smart Contracts Security Monitor @ iRede, teaching Solidity and secure development, reviewing student contracts and covering vulnerability classes such as reentrancy, access control and integer handling.
 - 🏆 **Achievement:** 1st Place Winner @ Uniswap Defihack (2026).
 - 🐍 **Coding:** Solidity, Python scripts for security automation, vulnerability triage and blockchain research.
-- 🧱 **Standards:** ERC-20, ERC-721, ERC-1155, token architecture and tokenomics.
 
 ---
 
